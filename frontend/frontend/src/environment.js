@@ -1,3 +1,3 @@
-const server = import.meta.env.VITE_SERVER_URL || "http://localhost:8000";
+const server = "https://anthro-meet-backend.onrender.com";
 
 export default server;
